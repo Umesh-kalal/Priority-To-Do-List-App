@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Priority-to-do-list-app/static/css/main.8248da0d.css",
+    "main.js": "/Priority-to-do-list-app/static/js/main.ec1bea7e.js",
+    "index.html": "/Priority-to-do-list-app/index.html",
+    "main.8248da0d.css.map": "/Priority-to-do-list-app/static/css/main.8248da0d.css.map",
+    "main.ec1bea7e.js.map": "/Priority-to-do-list-app/static/js/main.ec1bea7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8248da0d.css",
+    "static/js/main.ec1bea7e.js"
+  ]
+}
